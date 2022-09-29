@@ -12,13 +12,19 @@ BackEnd repository: [nlw-heat-backend](https://github.com/lucaseverest/nlw-heat-
 - [Socket.IO](https://socket.io/)
 - [React.js](https://reactjs.org/)
 
-## 🔌 How to run
+## 🔌 Getting started
 
 ```sh
-gh repo clone lucaseverest/nlw-heat-frontend
+# clone repo
+git clone https://github.com/lucaseverest/nlw-heat-frontend.git
+
+# Install the dependencies
 yarn
+
+# Start the project
 yarn dev
 ```
+
 ## :framed_picture: Imagens ##
 
 <h1 align="center">
